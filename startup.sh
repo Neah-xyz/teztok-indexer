@@ -11,7 +11,8 @@ sudo apt-get install -y \
     software-properties-common \
     lsb-release \
     dirmngr \
-    unzip
+    unzip \
+    build-essential
 
 # Add docker ubuntu repositories
 sudo mkdir -p /etc/apt/keyrings
